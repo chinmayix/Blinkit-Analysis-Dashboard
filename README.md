@@ -39,6 +39,18 @@ Dashboard Design: Added visuals like bar charts, pie charts, cards, and line cha
 
 Formatting & Layout: Used consistent colors, labels, and titles to create a professional and user-friendly dashboard.
 
+## Project Insights
+1. Regular fat items contribute more revenue compared to low-fat items.
+2. Supermarket Type 1 outlets generate the highest sales among all outlet types.
+3. Tier 3 cities contribute the largest share of total sales.
+4. Larger outlet sizes tend to perform better than smaller ones.
+5. Sales increased over the years until 2018 and then saw a decline, indicating possible market saturation or new competition.
+6. Fruits, snacks, and household items are the top-performing product categories.
+7. Customer ratings remain consistent across all outlets, showing stable satisfaction levels.
+## Conclusion
+The Blinkit Power BI Dashboard successfully provides a 360-degree view of the company’s sales performance. It identifies top-performing products, profitable outlet types, and trends across regions. By leveraging KPIs and interactive visualizations, business leaders can make informed decisions to improve inventory management, optimize outlet operations, and focus marketing strategies toward high-performing locations.
+
+
 
 
 

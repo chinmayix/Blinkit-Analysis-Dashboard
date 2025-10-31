@@ -6,8 +6,28 @@ The BlinkIT Grocery Sales Dashboard is designed to analyze and visualize sales d
 Objective
 
 The main goal of this dashboard is to study how various factors such as item type, fat content, outlet size, and outlet type influence total sales. It also aims to highlight top-performing outlets and product categories to support better planning and marketing strategies.
+
 Tools and Dataset
 
 The dashboard was created using Power BI for data visualization and Excel for initial data cleaning. The dataset, BlinkIT Grocery Data.xlsx, includes information such as Item Identifier, Item Type, Fat Content, Item Visibility, Outlet Type, and Sales.
+
+KPI Requirements
+To analyze Blinkit’s business performance, the following KPIs were created and visualized in Power BI:
+1. Total Sales – The overall revenue generated from all items sold.
+2. Average Sales – The average revenue per sale.
+3. Number of Items – The total count of different items sold.
+4. Average Rating – The average customer rating for items sold.
+Chart Requirements
+The visual analysis was conducted using various charts to answer key business questions:
+- Total Sales by Fat Content (Donut Chart): Analyze the impact of fat content on total sales.
+- Total Sales by Item Type (Bar Chart): Identify the performance of different item types in terms of total sales.
+- Fat Content by Outlet for Total Sales (Stacked Column Chart): Compare total sales across outlets segmented by fat content.
+- Total Sales by Outlet Establishment (Line Chart): Evaluate how outlet age/type influences total sales.
+- Sales by Outlet Size (Pie Chart): Analyze correlation between outlet size and total sales.
+- Sales by Outlet Location (Funnel Map): Assess geographic distribution of sales across locations.
+- All Metrics by Outlet Type (Matrix Card): Provide a complete view of all KPIs broken by outlet type.
+
+
+
 
 

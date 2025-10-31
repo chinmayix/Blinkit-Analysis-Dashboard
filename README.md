@@ -9,3 +9,5 @@ The main goal of this dashboard is to study how various factors such as item typ
 Tools and Dataset
 
 The dashboard was created using Power BI for data visualization and Excel for initial data cleaning. The dataset, BlinkIT Grocery Data.xlsx, includes information such as Item Identifier, Item Type, Fat Content, Item Visibility, Outlet Type, and Sales.
+
+

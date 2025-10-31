@@ -44,7 +44,8 @@ The visual analysis was conducted using various charts to answer key business qu
 6. Fruits, snacks, and household items are the top-performing product categories.
 7. Customer ratings remain consistent across all outlets, showing stable satisfaction levels.
 
-## Dashboard Interaction https://app.powerbi.com/groups/me/reports/e34a6bc3-285f-40a6-b73c-549f18970d88/f311ce425f7fc36a4af1?experience=power-bi
+## Dashboard Interaction 
+https://app.powerbi.com/groups/me/reports/e34a6bc3-285f-40a6-b73c-549f18970d88/f311ce425f7fc36a4af1?experience=power-bi
 
 ## Conclusion
 The Blinkit Power BI Dashboard successfully provides a 360-degree view of the company’s sales performance. It identifies top-performing products, profitable outlet types, and trends across regions. By leveraging KPIs and interactive visualizations, business leaders can make informed decisions to improve inventory management, optimize outlet operations, and focus marketing strategies toward high-performing locations.

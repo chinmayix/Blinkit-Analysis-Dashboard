@@ -29,15 +29,11 @@ The visual analysis was conducted using various charts to answer key business qu
 - All Metrics by Outlet Type (Matrix Card): Provide a complete view of all KPIs broken by outlet type.
 ## Process
 
-Data Import & Cleaning: Imported dataset into Power BI, handled missing values, and corrected data types.
-
-Data Transformation: Simplified category names and removed unnecessary columns using Power Query.
-
-Creating KPIs: Used DAX measures to calculate important business metrics such as Total Sales, Average Rating, and Total Items.
-
-Dashboard Design: Added visuals like bar charts, pie charts, cards, and line charts, with slicers for interactivity.
-
-Formatting & Layout: Used consistent colors, labels, and titles to create a professional and user-friendly dashboard.
+-Data Import & Cleaning: Imported dataset into Power BI, handled missing values, and corrected data types.
+-Data Transformation: Simplified category names and removed unnecessary columns using Power Query.
+-Creating KPIs: Used DAX measures to calculate important business metrics such as Total Sales, Average Rating, and Total Items.
+-Dashboard Design: Added visuals like bar charts, pie charts, cards, and line charts, with slicers for interactivity.
+-Formatting & Layout: Used consistent colors, labels, and titles to create a professional and user-friendly dashboard.
 
 ## Project Insights
 1. Regular fat items contribute more revenue compared to low-fat items.
@@ -47,6 +43,9 @@ Formatting & Layout: Used consistent colors, labels, and titles to create a prof
 5. Sales increased over the years until 2018 and then saw a decline, indicating possible market saturation or new competition.
 6. Fruits, snacks, and household items are the top-performing product categories.
 7. Customer ratings remain consistent across all outlets, showing stable satisfaction levels.
+
+## Dashboard Interaction https://app.powerbi.com/groups/me/reports/e34a6bc3-285f-40a6-b73c-549f18970d88/f311ce425f7fc36a4af1?experience=power-bi
+
 ## Conclusion
 The Blinkit Power BI Dashboard successfully provides a 360-degree view of the company’s sales performance. It identifies top-performing products, profitable outlet types, and trends across regions. By leveraging KPIs and interactive visualizations, business leaders can make informed decisions to improve inventory management, optimize outlet operations, and focus marketing strategies toward high-performing locations.
 

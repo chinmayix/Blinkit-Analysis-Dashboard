@@ -50,6 +50,9 @@ Formatting & Layout: Used consistent colors, labels, and titles to create a prof
 ## Conclusion
 The Blinkit Power BI Dashboard successfully provides a 360-degree view of the company’s sales performance. It identifies top-performing products, profitable outlet types, and trends across regions. By leveraging KPIs and interactive visualizations, business leaders can make informed decisions to improve inventory management, optimize outlet operations, and focus marketing strategies toward high-performing locations.
 
+## Dashboard
+<img width="1325" height="715" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/65c35bdd-af0b-4d01-b4a1-8197035473af" />
+
 
 
 

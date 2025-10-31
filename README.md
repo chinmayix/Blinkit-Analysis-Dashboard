@@ -17,6 +17,7 @@ To analyze Blinkit’s business performance, the following KPIs were created and
 2. Average Sales – The average revenue per sale.
 3. Number of Items – The total count of different items sold.
 4. Average Rating – The average customer rating for items sold.
+   
 Chart Requirements
 The visual analysis was conducted using various charts to answer key business questions:
 - Total Sales by Fat Content (Donut Chart): Analyze the impact of fat content on total sales.
@@ -26,6 +27,18 @@ The visual analysis was conducted using various charts to answer key business qu
 - Sales by Outlet Size (Pie Chart): Analyze correlation between outlet size and total sales.
 - Sales by Outlet Location (Funnel Map): Assess geographic distribution of sales across locations.
 - All Metrics by Outlet Type (Matrix Card): Provide a complete view of all KPIs broken by outlet type.
+
+  Process
+
+Data Import & Cleaning: Imported dataset into Power BI, handled missing values, and corrected data types.
+
+Data Transformation: Simplified category names and removed unnecessary columns using Power Query.
+
+Creating KPIs: Used DAX measures to calculate important business metrics such as Total Sales, Average Rating, and Total Items.
+
+Dashboard Design: Added visuals like bar charts, pie charts, cards, and line charts, with slicers for interactivity.
+
+Formatting & Layout: Used consistent colors, labels, and titles to create a professional and user-friendly dashboard.
 
 
 

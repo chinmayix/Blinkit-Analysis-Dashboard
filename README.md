@@ -30,9 +30,13 @@ The visual analysis was conducted using various charts to answer key business qu
 ## Process
 
 -Data Import & Cleaning: Imported dataset into Power BI, handled missing values, and corrected data types.
+
 -Data Transformation: Simplified category names and removed unnecessary columns using Power Query.
+
 -Creating KPIs: Used DAX measures to calculate important business metrics such as Total Sales, Average Rating, and Total Items.
+
 -Dashboard Design: Added visuals like bar charts, pie charts, cards, and line charts, with slicers for interactivity.
+
 -Formatting & Layout: Used consistent colors, labels, and titles to create a professional and user-friendly dashboard.
 
 ## Project Insights
